@@ -50,3 +50,5 @@
      ```
 
 3. 打开 [**“股票数据一键获取.xlsm”**](股票数据一键获取.xlsm) 按使用说明操作即可。
+
+   <img src="images/ui.png" style="zoom:20%;" /> 
